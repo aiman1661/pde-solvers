@@ -1,4 +1,4 @@
-# Numerical Physics Solvers
+# Numerical PDE Solvers
 
 This repository contains Python implementations of numerical IVP and BVP PDE solvers.
 
