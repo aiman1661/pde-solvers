@@ -1,0 +1,44 @@
+SOR solver took 3829 iterations for omega = 1.0.
+SOR solver took 3654 iterations for omega = 1.025.
+SOR solver took 3486 iterations for omega = 1.0499999999999998.
+SOR solver took 3326 iterations for omega = 1.0749999999999997.
+SOR solver took 3172 iterations for omega = 1.0999999999999996.
+SOR solver took 3025 iterations for omega = 1.1249999999999996.
+SOR solver took 2883 iterations for omega = 1.1499999999999995.
+SOR solver took 2747 iterations for omega = 1.1749999999999994.
+SOR solver took 2616 iterations for omega = 1.1999999999999993.
+SOR solver took 2490 iterations for omega = 1.2249999999999992.
+SOR solver took 2369 iterations for omega = 1.2499999999999991.
+SOR solver took 2252 iterations for omega = 1.274999999999999.
+SOR solver took 2139 iterations for omega = 1.299999999999999.
+SOR solver took 2030 iterations for omega = 1.3249999999999988.
+SOR solver took 1925 iterations for omega = 1.3499999999999988.
+SOR solver took 1823 iterations for omega = 1.3749999999999987.
+SOR solver took 1724 iterations for omega = 1.3999999999999986.
+SOR solver took 1628 iterations for omega = 1.4249999999999985.
+SOR solver took 1535 iterations for omega = 1.4499999999999984.
+SOR solver took 1445 iterations for omega = 1.4749999999999983.
+SOR solver took 1357 iterations for omega = 1.4999999999999982.
+SOR solver took 1272 iterations for omega = 1.5249999999999981.
+SOR solver took 1189 iterations for omega = 1.549999999999998.
+SOR solver took 1108 iterations for omega = 1.574999999999998.
+SOR solver took 1029 iterations for omega = 1.5999999999999979.
+SOR solver took 952 iterations for omega = 1.6249999999999978.
+SOR solver took 877 iterations for omega = 1.6499999999999977.
+SOR solver took 803 iterations for omega = 1.6749999999999976.
+SOR solver took 731 iterations for omega = 1.6999999999999975.
+SOR solver took 659 iterations for omega = 1.7249999999999974.
+SOR solver took 589 iterations for omega = 1.7499999999999973.
+SOR solver took 519 iterations for omega = 1.7749999999999972.
+SOR solver took 449 iterations for omega = 1.7999999999999972.
+SOR solver took 378 iterations for omega = 1.824999999999997.
+SOR solver took 303 iterations for omega = 1.849999999999997.
+SOR solver took 210 iterations for omega = 1.874999999999997.
+SOR solver took 207 iterations for omega = 1.8999999999999968.
+SOR solver took 274 iterations for omega = 1.9249999999999967.
+SOR solver took 410 iterations for omega = 1.9499999999999966.
+SOR solver took 825 iterations for omega = 1.9749999999999965.
+No convergence.
+Job Done! :)
+Check directory for measurements.npy file. Data analysis can be done by using np.load. 
+
